@@ -38,7 +38,7 @@ def main():
 
         if status: 
         	print(colored(" [:-)] vulnerable == ",'red'),site)
-        	f = open("vulnerable.txt",'a+')
+        	f = open("ClickJacking.txt",'a+')
         	f.write(str(site))
         	f.close()
         elif not status: print(colored(" [:-(] Website is not vulnerable!",'green'))
