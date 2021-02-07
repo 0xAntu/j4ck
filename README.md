@@ -25,4 +25,5 @@ After automatic scanning, you can use ClickJacking.html to check manually.
 If you have find any problem & fix any bug . Please Contact me.
 
 Mail to: armanantu19@yahoo.com
+
 Special Thanks to @D4Vinci
